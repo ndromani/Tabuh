@@ -9,7 +9,8 @@ In my view, there is a lack of open communication between parents and kids. That
 For that I envisage developing an online platform called TABUH to help school parent’s find informal ways to approach such topics and encourage them to exchange views and experiences. TABUH should be accessible only to the parents of the class and be a simple and intuitive tool to present tips and ideas on how to talk about sexuality. 
 The security aspect is important, so that parents can feel free to add information they would like to share with the other parents. This tool should not be in connection with other social networks. 
 The topics to be discussed in TABUH should mirror the structure of those taught in the school.
-![](/Images/Sexual education.png)
+
+![](/Images/Sexual education.png "This is a mind-map of topics")
 
 # IMPACT #
 This platform could be used at first amongst parents of the same class, but later it could be replicated to other classes or the whole school.  
